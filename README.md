@@ -1,5 +1,5 @@
 # firefuzz
-firefuzz
+FIREFUZZ: Advanced Subdomain Reconnaissance Tool
 
 
 # basic mode
